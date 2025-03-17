@@ -1,4 +1,4 @@
-# https://youtu.be/Fuve1nAdm8k
+
 """
 Face and eye detection using opencv (Haar Cascade classificaion)
 
